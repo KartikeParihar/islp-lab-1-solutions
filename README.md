@@ -1,1 +1,1 @@
-# islp-lab-1-solutions
+# islp-lab-solutions
